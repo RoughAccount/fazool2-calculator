@@ -38,3 +38,5 @@ def feature1():
 feature1()
 def feature5():
     print("hello from feature 5")
+def feature6():
+    print("hello from feature 6")
