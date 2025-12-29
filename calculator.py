@@ -28,3 +28,6 @@ else:
 def greeting():
     print("hello from calculator")
 greeting()
+def goodbye():
+    print("good by and may you die ruthlessly")
+goodbye()
