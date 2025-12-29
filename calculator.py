@@ -40,3 +40,6 @@ def feature5():
     print("hello from feature 5")
 def feature4():
     print("hello from feature 4")
+
+def feature6():
+    print("hello from feature 6")
