@@ -7,6 +7,7 @@ print("to perform addition enter +: ")
 print("to perform subtraction enter -: ")
 print("to perform multiplication enter *: ")
 print("to perform division enter /: ")
+print("to perform power enter ^: ")
 
 key = msvcrt.getch()
 if key.decode() == '+':
@@ -17,5 +18,7 @@ elif key.decode() == '*':
     print("multiplcation is ",a*b)
 elif key.decode() == '/':
     print("division is ",a/b)
+elif key.decode() == '^':
+    print("power is ",a**b)
 else:
     print("invalid operator (^_^)")
