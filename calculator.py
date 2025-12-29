@@ -31,3 +31,5 @@ greeting()
 def goodbye():
     print("good by and may you die ruthlessly")
 goodbye()
+def feature2():
+    print("this is feature 2")
