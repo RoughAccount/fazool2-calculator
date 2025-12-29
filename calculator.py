@@ -22,3 +22,9 @@ elif key.decode() == '^':
     print("power is ",a**b)
 else:
     print("invalid operator (^_^)")
+
+
+
+def greeting():
+    print("hello from calculator")
+greeting()
