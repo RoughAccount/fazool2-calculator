@@ -1,6 +1,6 @@
 import msvcrt
 
-a = int(input("enter a number: "))
+
 b = int(input("enter the second number: "))
 
 print("to perform addition enter +: ")
